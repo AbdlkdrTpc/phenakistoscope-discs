@@ -2,7 +2,7 @@
   {
     "id": "example-disc-2025",
     "name": "Örnek Disk",
-    "imageName": "5",                       // Assets’teki görsel adınız
+    "imageName": "5",                // Assets’teki görsel adınız,
     "frameCount": 12,
     "description": "Test için örnek disk",
     "icon": "circle.fill",                  // SF Symbols adı
