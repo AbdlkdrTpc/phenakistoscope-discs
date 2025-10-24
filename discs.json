@@ -1,11 +1,11 @@
 [
   {
-    "id": "example-disc-2025",
-    "name": "Örnek Disk",
+    "id": "5-disc-2025",
+    "name": "Aslan",
     "imageName": "5",               
     "frameCount": 12,
     "description": "Test için örnek disk",
-    "icon": "circle.fill",              
+    "icon": "swirl.circle.righthalf.filled",              
     "colorHex": "#00CED1",
     "addedDate": "2025-10-24T00:00:00Z",  
     "story": [
