@@ -2,7 +2,7 @@
   {
     "id": "example-disc-2025",
     "name": "Örnek Disk",
-    "imageName": "1",
+    "imageName": "5",
     "frameCount": 10,
     "description": "Test için örnek disk",
     "icon": "circle.fill",
@@ -15,7 +15,7 @@
       "Artık kod güncellemesi olmadan",
       "yeni diskler ekleyebilirsiniz."
     ],
-    "recommendedSpeed": 10.0
+    "recommendedSpeed": 12.0
   }
 ]
 
