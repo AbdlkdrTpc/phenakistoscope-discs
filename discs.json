@@ -18,12 +18,4 @@
     "recommendedSpeed": 10.0
   }
 ]
-```
 
-### 3. Raw URL'yi Almak İçin:
-```
-1. discs.json dosyasına tıklayın
-2. Sağ üstteki "Raw" butonuna basın
-3. URL şöyle görünecek:
-   https://raw.githubusercontent.com/AbdlkdrTpc/phenakistoscope-discs/main/discs.json
-4. Bu URL'yi kopyalayın
