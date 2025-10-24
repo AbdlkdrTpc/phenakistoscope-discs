@@ -1,0 +1,29 @@
+[
+  {
+    "id": "example-disc-2025",
+    "name": "Örnek Disk",
+    "imageName": "1",
+    "frameCount": 10,
+    "description": "Test için örnek disk",
+    "icon": "circle.fill",
+    "colorHex": "#00CED1",
+    "addedDate": "2025-01-24T00:00:00Z",
+    "story": [
+      "Bu bir test diskidir.",
+      "GitHub'dan yükleniyor.",
+      "Remote sistem çalışıyor!",
+      "Artık kod güncellemesi olmadan",
+      "yeni diskler ekleyebilirsiniz."
+    ],
+    "recommendedSpeed": 10.0
+  }
+]
+```
+
+### 3. Raw URL'yi Almak İçin:
+```
+1. discs.json dosyasına tıklayın
+2. Sağ üstteki "Raw" butonuna basın
+3. URL şöyle görünecek:
+   https://raw.githubusercontent.com/AbdlkdrTpc/phenakistoscope-discs/main/discs.json
+4. Bu URL'yi kopyalayın
