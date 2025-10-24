@@ -2,12 +2,12 @@
   {
     "id": "example-disc-2025",
     "name": "Örnek Disk",
-    "imageName": "5",
+    "imageName": "5",                       // Assets’teki görsel adınız
     "frameCount": 12,
     "description": "Test için örnek disk",
-    "icon": "circle.fill",
+    "icon": "circle.fill",                  // SF Symbols adı
     "colorHex": "#00CED1",
-    "addedDate": "2025-10-24T00:00:00Z",
+    "addedDate": "2025-10-24T00:00:00Z",   // ISO8601, ‘Yeni Eklenenler’ için son 7 gün olmalı
     "story": [
       "Bu bir test diskidir.",
       "GitHub'dan yükleniyor.",
