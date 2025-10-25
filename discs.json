@@ -8,7 +8,7 @@
     "description": "Muybridge'in ünlü koşan at animasyonu",
     "icon": "figure.equestrian.sports",
     "colorHex": "#FF6B6B",
-    "addedDate": "2025-10-25T10:00:00Z",
+    "addedDate": "2025-10-10T10:00:00Z",
     "recommendedSpeed": 2.5,
     "clockwise": true,
     "story": [
@@ -28,7 +28,7 @@
     "description": "Zarif dönüş hareketi",
     "icon": "figure.dance",
     "colorHex": "#9B59B6",
-    "addedDate": "2025-10-24T14:00:00Z",
+    "addedDate": "2025-10-10T14:00:00Z",
     "recommendedSpeed": 3.0,
     "clockwise": false,
     "story": [
@@ -47,7 +47,7 @@
     "description": "Kanat çırpışının anatomisi",
     "icon": "bird.fill",
     "colorHex": "#3498DB",
-    "addedDate": "2025-10-23T09:00:00Z",
+    "addedDate": "2025-10-10T09:00:00Z",
     "recommendedSpeed": 2.0,
     "clockwise": true,
     "story": [
