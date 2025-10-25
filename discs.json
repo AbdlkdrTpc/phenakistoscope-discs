@@ -9,14 +9,15 @@
     "icon": "figure.equestrian.sports",
     "colorHex": "#FF6B6B",
     "addedDate": "2025-10-25T10:00:00Z",
+    "recommendedSpeed": 2.5,
+    "clockwise": true,
     "story": [
       "1878 yılında Eadweard Muybridge,",
       "atın koşarken dört ayağını birden",
       "yerden kesip kesmediğini kanıtlamak için",
       "bu tarihi fotoğraf serisini çekti.",
       "Sonuç: Evet, kesiyordu!"
-    ],
-    "recommendedSpeed": 2.5
+    ]
   },
   {
     "id": "dancer-ballet",
@@ -28,13 +29,14 @@
     "icon": "figure.dance",
     "colorHex": "#9B59B6",
     "addedDate": "2025-10-24T14:00:00Z",
+    "recommendedSpeed": 3.0,
+    "clockwise": false,
     "story": [
       "Klasik bale hareketlerinden",
       "pirouette'in sihirli dönüşü,",
       "10 karede yakalanmış.",
       "Her hareket, mükemmel bir denge."
-    ],
-    "recommendedSpeed": 3.0
+    ]
   },
   {
     "id": "bird-flight",
@@ -46,12 +48,13 @@
     "icon": "bird.fill",
     "colorHex": "#3498DB",
     "addedDate": "2025-10-23T09:00:00Z",
+    "recommendedSpeed": 2.0,
+    "clockwise": true,
     "story": [
       "Leonardo da Vinci'nin kuş uçuşu",
       "çalışmalarından ilham alınmış.",
       "Kanatların aerodinamik hareketi",
       "frame by frame."
-    ],
-    "recommendedSpeed": 2.0
+    ]
   }
 ]
