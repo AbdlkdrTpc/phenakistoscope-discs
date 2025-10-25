@@ -1,21 +1,57 @@
 [
   {
-    "id": "5-disc-2025",
-    "name": "Aslan",
-    "imageName": "5",               
+    "id": "horse-run",
+    "name": "Koşan At",
+    "imageName": "horse",
+    "imageUrl": "https://raw.githubusercontent.com/AbdlkdrTpc/phenakistoscope-discs/main/images/horse.png",
     "frameCount": 12,
-    "description": "Test için örnek disk",
-    "icon": "swirl.circle.righthalf.filled",              
-    "colorHex": "#00CED1",
-    "addedDate": "2025-10-24T00:00:00Z",  
+    "description": "Muybridge'in ünlü koşan at animasyonu",
+    "icon": "figure.equestrian.sports",
+    "colorHex": "#FF6B6B",
+    "addedDate": "2025-10-25T10:00:00Z",
     "story": [
-      "Bu bir test diskidir.",
-      "GitHub'dan yükleniyor.",
-      "Remote sistem çalışıyor!",
-      "Artık kod güncellemesi olmadan",
-      "yeni diskler ekleyebilirsiniz."
+      "1878 yılında Eadweard Muybridge,",
+      "atın koşarken dört ayağını birden",
+      "yerden kesip kesmediğini kanıtlamak için",
+      "bu tarihi fotoğraf serisini çekti.",
+      "Sonuç: Evet, kesiyordu!"
     ],
-    "recommendedSpeed": 12.0
+    "recommendedSpeed": 2.5
+  },
+  {
+    "id": "dancer-ballet",
+    "name": "Bale Dansçısı",
+    "imageName": "dancer",
+    "imageUrl": "https://raw.githubusercontent.com/AbdlkdrTpc/phenakistoscope-discs/main/images/dancer.png",
+    "frameCount": 10,
+    "description": "Zarif dönüş hareketi",
+    "icon": "figure.dance",
+    "colorHex": "#9B59B6",
+    "addedDate": "2025-10-24T14:00:00Z",
+    "story": [
+      "Klasik bale hareketlerinden",
+      "pirouette'in sihirli dönüşü,",
+      "10 karede yakalanmış.",
+      "Her hareket, mükemmel bir denge."
+    ],
+    "recommendedSpeed": 3.0
+  },
+  {
+    "id": "bird-flight",
+    "name": "Uçan Kuş",
+    "imageName": "bird",
+    "imageUrl": "https://raw.githubusercontent.com/AbdlkdrTpc/phenakistoscope-discs/main/images/bird.png",
+    "frameCount": 8,
+    "description": "Kanat çırpışının anatomisi",
+    "icon": "bird.fill",
+    "colorHex": "#3498DB",
+    "addedDate": "2025-10-23T09:00:00Z",
+    "story": [
+      "Leonardo da Vinci'nin kuş uçuşu",
+      "çalışmalarından ilham alınmış.",
+      "Kanatların aerodinamik hareketi",
+      "frame by frame."
+    ],
+    "recommendedSpeed": 2.0
   }
 ]
-
